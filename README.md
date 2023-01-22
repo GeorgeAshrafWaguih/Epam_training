@@ -1,1 +1,2 @@
-# Epam_training
+# Epam_training:
+1- Game of profit
